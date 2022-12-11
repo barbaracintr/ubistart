@@ -1,4 +1,4 @@
-# Teste Front End - React Ubistart (Watermelon Juice)
+# Watermelon Juice
 Autora: Bárbara Cintra
 
 ## Como iniciar a aplicação
