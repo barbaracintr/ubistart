@@ -7,7 +7,6 @@ interface Props {
   
 export const PaperStyled = styled(Paper)`
     margin: 0 auto;
-    margin-top: 15vh;
     width: 40%;
     padding: 2rem;
 

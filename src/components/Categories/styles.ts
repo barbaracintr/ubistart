@@ -6,7 +6,6 @@ export const NavBar = styled.nav`
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 90%;
 
     @media only screen and (max-width: 600px) {
         flex-wrap: wrap;
